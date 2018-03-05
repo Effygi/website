@@ -25,7 +25,7 @@ body {
   height: 100%;
   min-height: 35rem;
   width: 100%;
-  background-color:#f2f5f7;
+  background-color:#f7f5f2;
   opacity: 0.75;
   z-index: -1;
 }
@@ -51,7 +51,7 @@ body {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color: rgb(38, 74, 204);
+  background-color:#264acc;
   transform: skewY(4deg);
   transform-origin: bottom right;
 }
@@ -126,7 +126,7 @@ body {
 .social-icons ul > li > a {
   display: block;
   color: white;
-  background-color: rgb(38, 74, 204);
+  background-color:#264acc;
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
@@ -163,18 +163,18 @@ body {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #264acc;
+    background-color:#264acc;
   }
 }
 
 .btn-secondary {
-  background-color: #264acc;
-  border-color: #264acc;
+  background-color:#264acc;
+  border-color:#264acc;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-  background-color: #264acc !important;
-  border-color: #264acc !important;
+  background-color:#264acc !important;
+  border-color:#264acc !important;
 }
 
 .input {
