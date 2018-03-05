@@ -25,7 +25,7 @@ body {
   height: 100%;
   min-height: 35rem;
   width: 100%;
-  background-color: #f2f5f7;
+  background-color:#f2f5f7;
   opacity: 0.75;
   z-index: -1;
 }
@@ -163,18 +163,18 @@ body {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #002E66;
+    background-color: #264acc;
   }
 }
 
 .btn-secondary {
-  background-color: #cd9557;
-  border-color: #cd9557;
+  background-color: #264acc;
+  border-color: #264acc;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-  background-color: #ba7c37 !important;
-  border-color: #ba7c37 !important;
+  background-color: #264acc !important;
+  border-color: #264acc !important;
 }
 
 .input {
