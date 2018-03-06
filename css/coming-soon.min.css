@@ -53,7 +53,7 @@ body {
   min-height: 35rem;
   height: 100%;
   background-color:#292a2d;
-  opacity: 0.75;
+  opacity: 0.95;
   transform: skewY(4deg);
   transform-origin: bottom right;
 }
