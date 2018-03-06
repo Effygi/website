@@ -52,7 +52,8 @@ body {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color:#264acc;
+  background-color:#292a2d;
+  opacity: 0.75;
   transform: skewY(4deg);
   transform-origin: bottom right;
 }
@@ -127,7 +128,7 @@ body {
 .social-icons ul > li > a {
   display: block;
   color: white;
-  background-color:#264acc;
+  background-color:#292a2d;
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
@@ -164,18 +165,18 @@ body {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color:#264acc;
+    background-color:#292a2d;
   }
 }
 
 .btn-secondary {
-  background-color:#264acc;
+  background-color:#292a2d;
   border-color:#264acc;
 }
 
 .btn-secondary:active, .btn-secondary:focus, .btn-secondary:hover {
-  background-color:#264acc !important;
-  border-color:#264acc !important;
+  background-color:#292a2d !important;
+  border-color:#292a2d !important;
 }
 
 .input {
